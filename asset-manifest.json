@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/surferspotter/static/css/main.db9bdf86.chunk.css",
-    "main.js": "/surferspotter/static/js/main.ab04bdda.chunk.js",
-    "main.js.map": "/surferspotter/static/js/main.ab04bdda.chunk.js.map",
+    "main.css": "/surferspotter/static/css/main.ab348bca.chunk.css",
+    "main.js": "/surferspotter/static/js/main.de0b57cc.chunk.js",
+    "main.js.map": "/surferspotter/static/js/main.de0b57cc.chunk.js.map",
     "runtime-main.js": "/surferspotter/static/js/runtime-main.b9601839.js",
     "runtime-main.js.map": "/surferspotter/static/js/runtime-main.b9601839.js.map",
-    "static/css/2.131a0933.chunk.css": "/surferspotter/static/css/2.131a0933.chunk.css",
-    "static/js/2.13fcd5f5.chunk.js": "/surferspotter/static/js/2.13fcd5f5.chunk.js",
-    "static/js/2.13fcd5f5.chunk.js.map": "/surferspotter/static/js/2.13fcd5f5.chunk.js.map",
+    "static/css/2.2d487d2c.chunk.css": "/surferspotter/static/css/2.2d487d2c.chunk.css",
+    "static/js/2.68f715b4.chunk.js": "/surferspotter/static/js/2.68f715b4.chunk.js",
+    "static/js/2.68f715b4.chunk.js.map": "/surferspotter/static/js/2.68f715b4.chunk.js.map",
     "index.html": "/surferspotter/index.html",
-    "precache-manifest.f16e9c2fe6aafebd6706276e82cc0691.js": "/surferspotter/precache-manifest.f16e9c2fe6aafebd6706276e82cc0691.js",
+    "precache-manifest.6a6b05dc9bbadce51e69917d28806cab.js": "/surferspotter/precache-manifest.6a6b05dc9bbadce51e69917d28806cab.js",
     "service-worker.js": "/surferspotter/service-worker.js",
-    "static/css/2.131a0933.chunk.css.map": "/surferspotter/static/css/2.131a0933.chunk.css.map",
-    "static/css/main.db9bdf86.chunk.css.map": "/surferspotter/static/css/main.db9bdf86.chunk.css.map",
-    "static/js/2.13fcd5f5.chunk.js.LICENSE.txt": "/surferspotter/static/js/2.13fcd5f5.chunk.js.LICENSE.txt"
+    "static/css/2.2d487d2c.chunk.css.map": "/surferspotter/static/css/2.2d487d2c.chunk.css.map",
+    "static/css/main.ab348bca.chunk.css.map": "/surferspotter/static/css/main.ab348bca.chunk.css.map",
+    "static/js/2.68f715b4.chunk.js.LICENSE.txt": "/surferspotter/static/js/2.68f715b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b9601839.js",
-    "static/css/2.131a0933.chunk.css",
-    "static/js/2.13fcd5f5.chunk.js",
-    "static/css/main.db9bdf86.chunk.css",
-    "static/js/main.ab04bdda.chunk.js"
+    "static/css/2.2d487d2c.chunk.css",
+    "static/js/2.68f715b4.chunk.js",
+    "static/css/main.ab348bca.chunk.css",
+    "static/js/main.de0b57cc.chunk.js"
   ]
 }
