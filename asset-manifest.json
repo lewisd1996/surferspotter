@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/surferspotter/static/css/main.529abceb.chunk.css",
-    "main.js": "/surferspotter/static/js/main.7d59d3ee.chunk.js",
-    "main.js.map": "/surferspotter/static/js/main.7d59d3ee.chunk.js.map",
+    "main.js": "/surferspotter/static/js/main.d6a58b0d.chunk.js",
+    "main.js.map": "/surferspotter/static/js/main.d6a58b0d.chunk.js.map",
     "runtime-main.js": "/surferspotter/static/js/runtime-main.b9601839.js",
     "runtime-main.js.map": "/surferspotter/static/js/runtime-main.b9601839.js.map",
     "static/css/2.131a0933.chunk.css": "/surferspotter/static/css/2.131a0933.chunk.css",
     "static/js/2.7390a4c4.chunk.js": "/surferspotter/static/js/2.7390a4c4.chunk.js",
     "static/js/2.7390a4c4.chunk.js.map": "/surferspotter/static/js/2.7390a4c4.chunk.js.map",
     "index.html": "/surferspotter/index.html",
-    "precache-manifest.83b18a034bdca63aa4730cfffb635b6f.js": "/surferspotter/precache-manifest.83b18a034bdca63aa4730cfffb635b6f.js",
+    "precache-manifest.6e77be1bb852796d3b9ff9a56140e687.js": "/surferspotter/precache-manifest.6e77be1bb852796d3b9ff9a56140e687.js",
     "service-worker.js": "/surferspotter/service-worker.js",
     "static/css/2.131a0933.chunk.css.map": "/surferspotter/static/css/2.131a0933.chunk.css.map",
     "static/css/main.529abceb.chunk.css.map": "/surferspotter/static/css/main.529abceb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.131a0933.chunk.css",
     "static/js/2.7390a4c4.chunk.js",
     "static/css/main.529abceb.chunk.css",
-    "static/js/main.7d59d3ee.chunk.js"
+    "static/js/main.d6a58b0d.chunk.js"
   ]
 }
